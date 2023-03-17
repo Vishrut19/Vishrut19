@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrut19&show_icons=true&locale=en" alt="vishrut19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrut19&" alt="vishrut19" /></p>
+
+<img src="https://wilcobadge.vercel.app/api/handler?wilconame=vishrut19" style="color: white;" />
