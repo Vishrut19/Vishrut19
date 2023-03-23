@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrut19&" alt="vishrut19" /></p>
 
-<img src="https://wilcobadge.vercel.app/api/handler?wilconame=vishrut19" style="color: white;" />
+<img src="https://wilcobadge.vercel.app/api/handler?wilconame=vishrut19"/>
