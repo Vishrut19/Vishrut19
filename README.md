@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishrut19" target="blank"><img src="https://img.shields.io/twitter/follow/vishrut19?logo=twitter&style=for-the-badge" alt="vishrut19" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS and building projects**
+- 🌱 I’m currently contributing to **Open Source Projects and building some of my own projects** to hone my development skills.
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-vishrut.netlify.app](https://personal-portfolio-vishrut.netlify.app)
 
