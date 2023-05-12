@@ -14,14 +14,14 @@
 
 - 📫 How to reach me **vishrutagarwalla19@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11rE9sntEOJ-9UUN0pUoNCeqNYzh1Vzcj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BGq0vC_3DXZLHjjt27uXI04AMvLfY0xr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishrutwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishrut19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishrut-agarwalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishrutagarwalla" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vishrut19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vishrut19" height="30" width="40" /></a>
-<a href="discordapp.com/users/1048476847626801212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Tm5uEbTz" height="30" width="40" /></a>
+<a href="Vishrut || Web Developer#0359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Tm5uEbTz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
