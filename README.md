@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <a href="https://twitter.com/vishrut19" target="blank"><img src="https://img.shields.io/twitter/follow/vishrut19?logo=twitter&style=for-the-badge" alt="vishrut19" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vishrutwts" target="blank"><img src="https://img.shields.io/twitter/follow/vishrutwts?logo=twitter&style=for-the-badge" alt="vishrutwts" /></a> </p>
 
 - 🌱 I’m currently contributing to some of the  **Open Source Projects like (LinkFree and React Play) and building some projects** to hone and work on my Front Development Skills
 
